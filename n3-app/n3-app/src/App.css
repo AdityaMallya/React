@@ -1,0 +1,27 @@
+/* styles.css */
+.assda {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.imm {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+  cursor: pointer;
+}
+
+.hi {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #f3f4f6;
+  border-radius: 8px;
+  display: inline-block;
+  text-align: left;
+}
